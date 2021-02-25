@@ -112,3 +112,4 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 wrapt==1.12.1
 zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
+altair==4.1.0
